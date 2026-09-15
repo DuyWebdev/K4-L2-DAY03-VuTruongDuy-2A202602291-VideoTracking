@@ -1,0 +1,8 @@
+{
+  "clip": "clip_01",
+  "source": "annotations/clip_01/gt.txt",
+  "snapshot": "pre-gold",
+  "sha256": "3ad8b841abd016da890e77f7f22cb5cc46491633314dd09ceb755cdd2d8a8148",
+  "rows": 601,
+  "created_at_utc": "2026-09-15T09:39:43+00:00"
+}
